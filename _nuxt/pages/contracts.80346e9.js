@@ -77,204 +77,6 @@
                         }
                     }, [t._v("XXX")])]), t._v(" "), c("i18n", {
                         attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnb",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
-                            path: "about.ethbbnbstaking",
-                            tag: "label",
-                            for: "about.milk-address"
-                        }
-                    }, [c("a", {
-                        attrs: {
-                            href: "https://bscscan.com/address/xxx",
-                            target: "_blank"
-                        }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
-                        attrs: {
                             path: "about.ethbbusd",
                             tag: "label",
                             for: "about.milk-address"
@@ -287,6 +89,204 @@
                     }, [t._v("xxx")])]), t._v(" "), c("i18n", {
                         attrs: {
                             path: "about.ethbbusdstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbcake",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbcakestaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbeth",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbethstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbusdt",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbusdtstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbdoge",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbdogestaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbada",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbadastaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbdot",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbdotstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.idolp",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.idolpstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("XXX")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.idolp2",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.idolp2staking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.idolp3",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.idolp3staking",
                             tag: "label",
                             for: "about.milk-address"
                         }
