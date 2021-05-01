@@ -619,62 +619,6 @@
                 chainId: 56,
                 cows: [{
                     id: 1,
-                    name: "ETHBot (ETHB)",
-                    avatar: "/ETHBonly.png",
-                    desc: "Earn ETHB by Staking your ETHB Tokens!",
-                    initialized: !0,
-                    routeLink: "/ethb",
-                    address: "xxx",
-                    stakeToken: {
-                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
-                        decimals: 18,
-                        symbol: "ETHB"
-                    },
-                    yieldToken: {
-                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
-                        decimals: 18,
-                        symbol: "ETHB"
-                    }
-                }, {
-                    id: 2,
-                    name: "ETHB-BNB",
-                    avatar: "/ethbBNB.png",
-                    desc: "Earn ETHB by Staking your ETHB-BNB LP!",
-                    routeLink: "/ethbbnb",
-                    initialized: !0,
-                    totalAmount: 2e3,
-                    address: "xxx",
-                    stakeToken: {
-                        address: "xxx",
-                        decimals: 18,
-                        symbol: "ETHB-BNB LP"
-                    },
-                    yieldToken: {
-                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
-                        decimals: 18,
-                        symbol: "ETHB"
-                    }
-                }, {
-                    id: 3,
-                    name: "ETHB-BUSD",
-                    avatar: "/ethbBUSD.png",
-                    desc: "Earn ETHB by Staking your ETHB-BUSD LP!",
-                    totalAmount: 2e3,
-                    initialized: !0,
-                    routeLink: "/ethbbusd",
-                    address: "xxx",
-                    stakeToken: {
-                        address: "xxx",
-                        decimals: 18,
-                        symbol: "ETHB-BUSD LP"
-                    },
-                    yieldToken: {
-                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
-                        decimals: 18,
-                        symbol: "ETHB"
-                    }
-                }, {
-                    id: 4,
                     name: "ETHB-CAKE",
                     avatar: "/ethbCAKE.png",
                     desc: "Earn ETHB by Staking your ETHB-CAKE LP!",
@@ -693,7 +637,7 @@
                         symbol: "ETHB"
                     }
                 }, {
-                    id: 5,
+                    id: 2,
                     name: "ETHB-ETH",
                     avatar: "/ethbETH.png",
                     desc: "Earn ETHB by Staking your ETHB-ETH LP!",
@@ -712,7 +656,7 @@
                         symbol: "ETHB"
                     }
                 }, {
-                    id: 6,
+                    id: 3,
                     name: "ETHB-BUSDT",
                     avatar: "/ethbBUSDT.png",
                     desc: "Earn ETHB by Staking your ETHB-BUSDT LP!",
@@ -724,6 +668,62 @@
                         address: "xxx",
                         decimals: 18,
                         symbol: "ETHB-BUSDT LP"
+                    },
+                    yieldToken: {
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
+                }, {
+                    id: 4,
+                    name: "ETHBot (ETHB)",
+                    avatar: "/ETHBonly.png",
+                    desc: "Earn ETHB by Staking your ETHB Tokens!",
+                    initialized: !0,
+                    routeLink: "/ethb",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    },
+                    yieldToken: {
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
+                }, {
+                    id: 5,
+                    name: "ETHB-BNB",
+                    avatar: "/ethbBNB.png",
+                    desc: "Earn ETHB by Staking your ETHB-BNB LP!",
+                    routeLink: "/ethbbnb",
+                    initialized: !0,
+                    totalAmount: 2e3,
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-BNB LP"
+                    },
+                    yieldToken: {
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
+                }, {
+                    id: 6,
+                    name: "ETHB-BUSD",
+                    avatar: "/ethbBUSD.png",
+                    desc: "Earn ETHB by Staking your ETHB-BUSD LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/ethbbusd",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-BUSD LP"
                     },
                     yieldToken: {
                         address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
