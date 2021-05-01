@@ -97,6 +97,17 @@
                             href: "https://bscscan.com/address/xxx",
                             target: "_blank"
                         }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbusdstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
                     }, [t._v("xxx")])])], 1)])])])
                 }), [], !1, null, "2ea94a50", null);
             e.default = component.exports
