@@ -75,9 +75,9 @@
                             href: "https://bscscan.com/address/xxx",
                             target: "_blank"
                         }
-                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                    }, [t._v("xxx")])]),, t._v(" "), c("i18n", {
                         attrs: {
-                            path: "about.ethbbusd",
+                            path: "about.ethbbnb",
                             tag: "label",
                             for: "about.milk-address"
                         }
@@ -88,7 +88,128 @@
                         }
                     }, [t._v("xxx")])]), t._v(" "), c("i18n", {
                         attrs: {
-                            path: "about.ethbbusdstaking",
+                            path: "about.ethbbnbstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]),, t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnb",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnbstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]),, t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnb",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnbstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]),, t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnb",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnbstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]),, t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnb",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnbstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]),, t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnb",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbnbstaking",
+                            tag: "label",
+                            for: "about.milk-address"
+                        }
+                    }, [c("a", {
+                        attrs: {
+                            href: "https://bscscan.com/address/xxx",
+                            target: "_blank"
+                        }
+                    }, [t._v("xxx")])]), t._v(" "), c("i18n", {
+                        attrs: {
+                            path: "about.ethbbusd",
                             tag: "label",
                             for: "about.milk-address"
                         }
